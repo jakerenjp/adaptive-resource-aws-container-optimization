@@ -1,0 +1,13 @@
+{
+    "Containers": {
+        "Container1": {
+            "Mean": 89.5
+        },
+        "Container2": {
+            "Mean": 71
+        },
+        "Container3": {
+            "Mean": 95.5
+        }
+    }
+}

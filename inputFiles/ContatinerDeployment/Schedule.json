@@ -1,0 +1,12 @@
+{
+    "Instances": {
+        "Instance1": {
+            "AvailRes": 1000,
+            "deployedCon": {
+                "Container1": 17.900000000000002,
+                "Container2": 14.200000000000001,
+                "Container3": 19.1
+            }
+        }
+    }
+}

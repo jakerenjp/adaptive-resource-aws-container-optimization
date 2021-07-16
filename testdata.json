@@ -1,0 +1,51 @@
+{
+"Interval" : "100",
+"Containers" : 
+	{
+		"Container1" : 
+			{ "Usages" : 
+				[
+					{"PeriodStartTime" : "0", "ResourceDemand" : "92"},
+					{"PeriodStartTime" : "5", "ResourceDemand" : "82"},
+					{"PeriodStartTime": "10", "ResourceDemand" : "92"},
+					{"PeriodStartTime": "95", "ResourceDemand" : "92"}
+				]
+			},
+		"Container2" : 
+			{ "Usages" : 
+				[
+					{"PeriodStartTime" : "0", "ResourceDemand" : "95"},
+					{"PeriodStartTime" : "5", "ResourceDemand" : "82"},
+					{"PeriodStartTime": "10", "ResourceDemand" : "82"},
+					{"PeriodStartTime": "95", "ResourceDemand" : "25"}
+				]
+			},
+		"Container3" : 
+			{ "Usages" : 
+				[
+					{"PeriodStartTime" : "0", "ResourceDemand" : "95"},
+					{"PeriodStartTime" : "5", "ResourceDemand" : "82"},
+					{"PeriodStartTime": "10", "ResourceDemand" : "82"},
+					{"PeriodStartTime": "95", "ResourceDemand" : "25"}
+				]
+			}
+	},
+"Instances" :
+	{
+		"Instance1" :
+		{ 
+			"AvaR" : "100",
+		  	"Cost" : "100"
+		},
+		"Instance2" :
+		{ 
+			"AvaR" : "100",
+		  	"Cost" : "100"
+		},
+		"Instance3" :
+		{ 
+			"AvaR" : "100",
+		  	"Cost" : "100"
+		}
+	}
+}
