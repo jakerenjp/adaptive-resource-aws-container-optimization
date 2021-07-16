@@ -1,3 +1,6 @@
+Adaptive Resource AWS Container Optimization
+See "Term Project" PDF for more info.
+
 How to build/run.
 
 Our code requires download of a few Python modules. These Python modules include scipy, matplotlib, and pulp. These can be installed via the command line with the command:
