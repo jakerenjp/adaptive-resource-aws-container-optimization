@@ -1,4 +1,4 @@
-Adaptive Resource AWS Container Optimization
+# Adaptive Resource AWS Container Optimization
 See "Term Project" PDF for more info.
 
 How to build/run.
